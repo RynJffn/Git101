@@ -7,12 +7,12 @@ In order to start working on an established project, it is necessary to get a (l
 For example, I could clone the project with all this slides, by typing
 
 ```
-git clone https://github.com/profburke/git101
+git clone https://github.com/Software-Engineering-Summit/Git-101
 ```
 
 _Let's take a look at what that did..._
 
-There is now a directory on my computer, `git101` which has all the slides.
+There is now a directory on my computer, `Git-101` which has all the slides.
 
 _Some terminology_
 
@@ -35,14 +35,14 @@ That's why Git is an example of a **distributed** version control system. Other 
 Let's try cloning. Enter the following command
 
 ```
-git clone https://github.com/profburke/git101
+git clone https://github.com/Software-Engineering-Summit/Git-101
 ```
 
 Now, you too, should have a copy of all the slides on your computer.
 
 #### Your Turn
 
-1. Clone the following repository: https://github.com/profburke/git101-sample
+1. Clone the following repository: https://github.com/Software-Engineering-Summit/Git-101-Sample
 
 We will use this repository for the remaining exercises. So let me or a TA know if you encounter problems cloning this repository.
 

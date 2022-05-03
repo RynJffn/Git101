@@ -39,7 +39,7 @@ Some or all of these sections may not appear depending on the state of the files
 
 #### Your Turn
 
-Do the following in your working copy of the git101-sample project:
+Do the following in your working copy of the Git-101-Sample project:
 
 (_I recommend you run `git status` before each step so you can get comfortable reading its output._)
 

@@ -22,7 +22,7 @@ Usually isn't always. What happens if there's a problem? For the answer to that 
 
 #### Your Turn
 
-While you weren't looking, I've updated the `git101-sample` remote with some changes.
+While you weren't looking, I've updated the `Git-101-Sample` remote with some changes.
 
 1. Pull those changes into your working copy.
 
